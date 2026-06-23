@@ -2,6 +2,10 @@
 
 Aspiring MERN Full Stack Developer passionate about building modern web applications with MongoDB, Express.js, React.js, and Node.js.
 
+## Resume
+[Arnold Jhed Sapigao - MERN Full Stack Dev Resume.pdf](https://github.com/user-attachments/files/29257017/Arnold.Jhed.Sapigao.-.MERN.Full.Stack.Dev.Resume.pdf)
+
+
 ## Tech Stack
 - Frontend: React.js, JavaScript ES6+, HTML5, CSS3
 - Backend: Node.js, Express.js, REST APIs, JWT Authentication
